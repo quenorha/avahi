@@ -52,6 +52,13 @@ opkg list_installed | grep avahi
 cat /var/log/messages | grep avahi
 ```
 
+## Compatibility
+
+Tested on (but should work on earlier FW version)
+- PFC200 FW28/FW30
+- CC100 FW30
+- WP400 FW28/FW30 (need to install via SSH)
+- PFC300 FW30
 
 
 
